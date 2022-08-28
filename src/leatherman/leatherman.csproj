@@ -4,10 +4,17 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Title>leatherman</Title>
+        <Description>A collection of extension methods, helper classes and utilities that I use frequently</Description>
+        <PackageLicenseUrl>https://unlicense.org/</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/JyheMark/leatherman</RepositoryUrl>
+        <PackageId />
+        <PackageVersion />
+        <Authors>Jyhe Mark</Authors>
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5"/>
+        <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
     </ItemGroup>
 
 </Project>
